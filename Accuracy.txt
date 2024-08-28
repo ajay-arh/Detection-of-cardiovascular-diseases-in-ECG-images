@@ -1,0 +1,10 @@
+Detection of Cardiovascular Diseases in ECG Images using deep learning.
+
+Algorithm / Model Used: MobileNet Architecture.
+
+Training accuracy of 97.34%. and 
+Validation accuracy of 91.00%.
+
+
+
+
